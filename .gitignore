@@ -1,0 +1,8 @@
+tmp
+*.log
+node_modules
+bower_components
+.idea/*
+lib
+.idea/workspace.xml
+*.iml
